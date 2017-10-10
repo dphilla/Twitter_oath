@@ -12,6 +12,8 @@ gem "faker"
 gem "therubyracer"
 gem "less-rails-bootstrap"
 gem "minitest-rails"
+gem 'omniauth-twitter'
+gem 'figaro'
 
 group :development do
   gem "spring"
